@@ -23,21 +23,21 @@
                             <h5 class="uppercase font-bold mb-3">The Brand</h5>
 
                             <ul class="list-reset" >
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/">Logo</router-link></li>
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/about">Logo Symbol</router-link></li>
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/about">Colors</router-link></li>
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/about">Typography</router-link></li>
-                            </ul>
-                        </section>
-
-                        <section>
-                            <h5 class="uppercase font-bold mb-3">Doodles</h5>
-
-                            <ul class="list-reset">
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/">Mascot</router-link></li>
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/about">Illustrations</router-link></li>
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/">Loaders and Animations</router-link></li>
-                               <li class="text-sm leading-loose"><router-link class="text-black" to="/about">Wallpapers</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Logo">Logo</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Logo-Symbol">Logo Symbol</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Colors">Colors</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Typography">Typography</router-link></li>
+                            </ul> 
+                        </section> 
+ 
+                        <section> 
+                            <h5 class="uppercase font-bold mb-3">Doodles</h5> 
+ 
+                            <ul class="list-reset"> 
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Mascot">Mascot</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Illustarations">Illustrations</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Loaders-And-Animations">Loaders and Animations</router-link></li>
+                               <li class="text-sm leading-loose"><router-link class="text-black"   to="/Wallpapers">Wallpapers</router-link></li>
                             </ul>
                         </section>
                     </aside>

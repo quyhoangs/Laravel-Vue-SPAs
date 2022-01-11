@@ -1,13 +1,9 @@
 <template>
     <h1 class="font-normal text-3xl text-grey-darkest leading-none">
-        Full Logo
+        Wallpapers
     </h1>
 </template>
 
 <script>
-    export default {
-        mounted() {
-            console.log('Component mounted.')
-        }
-    }
+export default {};
 </script>

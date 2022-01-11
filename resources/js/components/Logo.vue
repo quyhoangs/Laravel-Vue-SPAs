@@ -1,5 +1,7 @@
 <template>
-    <p > About </p>
+    <h1 class="font-normal text-3xl text-grey-darkest leading-none">
+        Full Logoa
+    </h1>
 </template>
 
 <script>
