@@ -11,7 +11,7 @@
     <body class="font-sans">
         <div id="app">
             <div class="container mx-auto">
-                <header class="py-6 mb-8">
+                 <header class="section py-6 mb-8" >  
                     <h1>
                         <img alt="Laracasts" src="https://media.flaticon.com/dist/min/img/logo/flaticon_negative.svg"  style="width:10%" >
                     </h1>
