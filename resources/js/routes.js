@@ -2,7 +2,11 @@ import Logo from './components/Logo';
 import LogoSymbol from './components/LogoSymbol';
 import Colors from './components/Colors';
 import Illustarations from './components/Illustarations';
-import LoadersAndAnimations from './components/LoadersAndAnimations';
+
+let LoadersAndAnimations = () =>
+    import('./components/LoadersAndAnimations');
+
+
 import Mascot from './components/Mascot';
 import Typography from './components/Typography';
 import Wallpapers from './components/Wallpapers';

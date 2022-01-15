@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="w-1/2">
         <h1 class="font-normal text-3xl text-grey-darkest leading-none mb-8">
             Full Logo
         </h1>

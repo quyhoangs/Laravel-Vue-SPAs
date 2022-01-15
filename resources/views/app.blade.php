@@ -42,7 +42,7 @@
                         </section>
                     </aside>
 
-                    <div class="primary flex-1">
+                    <div class="primary flex-1"  >
                        <router-view></router-view>
                     </div>
                 </main>
